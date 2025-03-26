@@ -6,16 +6,16 @@
 ---
 
 ## 🛠️ Skills
-- **Programming Languages:** JavaScript, TypeScript, PHP, C, C++
+- **Programming Languages:** JavaScript, TypeScript, PHP, Python, C, C++
 - **Frameworks & Libraries & Development Platforms:** Node.js, Express.js, Laravel, Nest.js, React.js, Vue.js, Next.js
-- **Databases:** MySQL, MongoDB, PostgreSQL, Redis
-- **Tools & Technologies:** Docker, Git, RESTful APIs, Microservices
+- **Databases:** MySQL, MongoDB, PostgreSQL, Redis, Realm
+- **Tools & Technologies:** Docker, Git, RESTful APIs, Microservices, Plisio, Flipside Crypto, Sepidar Accounting Software
 - **Project Management Tools:** Jira, Trello, Asana, Slack
 
 ---
 
 ## 🎓 Education
-- **Master's in Information Technology** - Imam Reza University  
+- **M.Sc. Student in IT - Information Systems Management** - Imam Reza University  
 
 ---
 
