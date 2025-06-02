@@ -20,6 +20,5 @@
 ---
 
 ## 📫 Contact Information
-- **Email:** farhadflhp@gmail.com  
-- **LinkedIn:** [linkedin.com/in/farhad-fallahpour](https://www.linkedin.com/in/farhad-fallahpour-1a713a2b8)
+- **Email:** Azinrezaee6@gmail.com
 
